@@ -1,0 +1,6 @@
+C:\Users\nguye\RiderProjects\lab 8\lab 8\bin\Debug\lab_8.exe
+C:\Users\nguye\RiderProjects\lab 8\lab 8\bin\Debug\lab_8.pdb
+C:\Users\nguye\RiderProjects\lab 8\lab 8\obj\Debug\lab 8.csprojAssemblyReference.cache
+C:\Users\nguye\RiderProjects\lab 8\lab 8\obj\Debug\lab 8.csproj.CoreCompileInputs.cache
+C:\Users\nguye\RiderProjects\lab 8\lab 8\obj\Debug\lab_8.exe
+C:\Users\nguye\RiderProjects\lab 8\lab 8\obj\Debug\lab_8.pdb
